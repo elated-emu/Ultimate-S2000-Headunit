@@ -1,0 +1,34 @@
+>[!Tip] I used a Samsung Galaxy Tab S6 Lite (2020) 128GB with 4G from Marketplace for $150. 
+
+# Why Samsung Galaxy Tab S6 Lite?
+The 10.4 inch screen and physical dimensions fit very well with the radio door off. I would suggest to get a model that has 4G and is not [[#Carrier Lock|Carrier Locked]].
+## Physical Dimensions
+I stumbled on this device by accident when scouting out a tablet to use. I initially went to buy an older tablet from Facebook Marketplace, but the seller showed me his newer one that he was selling and allowed me to see how they fit in the car. I almost dropped my jaw when I slid it in and it fit so perfectly.
+
+It is a tight fit and it does press the volume/power buttons when sliding it through, however it doesn't do that when driving.
+
+I chose to design a 3D printed enclosure, not for support but just aesthetics. It will hold itself in place pretty well.
+
+> [!NOTE] You need to slide it in the groove (from the driver's side to the passenger's side) nearest the cabin (after removing the radio door) 
+> 
+> The tablet base will be touching the plastic around the shift boot. Then be securely held at exactly 69 degrees using the pressure from the overhang where the radio door used to be.
+> 
+>As you are sliding it in, it should not be angled towards either the passenger or driver seat. It needs to go in directly facing the shift knob. 
+
+## Wide Availability / Cheap
+These things were mass produced, many are very slow from using Samsung's version of Android. Don't worry, replace it with [[LineageOS#LineageOS|LineageOS]] and it will be faster than the milkman. They have been re-released many times under the same name, same dimensions, same appearance, with different specs. Samsung is really bad at naming things so it may get a little confusing to know what device you have. I would go for a newer model because it might be faster, but I wouldn't lose sleep over having a 2022 model instead of the 2024.
+
+## Expandable Storage
+You can insert an SD card into the other side of the SIM tray. Now I can download all the music and shows I want, without filling up my phone. Very useful.
+
+## GPS
+This tablet has GPS, so you can use maps. Of course my [[Rules to the Challenge|Rules]] won't let me use Google Maps, so I use [[Software#Navigation Software - OsmAnd|OsmAnd]] instead.
+
+
+## Nice Screen
+This device has a high res 1200 x 2000 display. Not the best, but far from the worst. AMOLED would be nice, but this screen works just fine.
+
+
+## Carrier Lock
+> [!ERROR] You do not want a Carrier Lock!
+A carrier lock is when a specific company (like Verizon) locks the device to only work on say Verizon. This is bad because you may **not** be able to install [[LineageOS#LineageOS|LineageOS]]. Which is not technically required, but very highly recommended.
