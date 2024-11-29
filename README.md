@@ -11,3 +11,5 @@ I recommend using [Obsidian](https://obsidian.md/) to view this guide.
 3. Open Obsidian, then click select folder as vault
 4. Select the folder you extracted the zip to
 
+# How to view docs on GitHub
+The files are named in numeric order for the sections. Start at 00 and work your way up. It won't be formatted as I intended it to be viewed, but you can still read the material. I may consider later releasing the entire guide as a PDF when the material is finished.
