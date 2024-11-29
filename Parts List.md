@@ -1,4 +1,0 @@
-- Any New/Used Pioneer Head-unit with *"Smart Sync"* [[Pioneer Headunit|More Info]]
-- A new/used Samsung Galaxy Tab S6 Lite [[Tablet|More Info]]
-- U Shaped (180 Degree) USB-C Plug [I used this one](https://www.amazon.co.uk/dp/B0BWF7SBF5?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
-- 3D Printed Housing for the screen (I will upload the model when I feel like it is finished. I currently don't like it)
